@@ -31,5 +31,10 @@ Since the timer consists of a font, or rather characters from 0 to 9. So we need
 <img src="https://github.com/PollyVern/AnimatedWidget/blob/main/Resources/png_stopwatch.png" width="600">
 
 Create a font in [https://glyphsapp.com](https://glyphsapp.com) or any other editor you need for your tasks.
-За
+Based on the bugs, found the best solution for the image:
+- png format to 1x size 300х300 (in Sketch)
+- in Artboard, leave the left part empty, because otherwise you will see part of the text on a fully turned off screen (I'll tell you about it below).
+It should work like this in Glyph:
+
+<img src="https://github.com/PollyVern/AnimatedWidget/blob/main/Resources/png_font_unit.png" width="300">
 
