@@ -38,3 +38,7 @@ It should work like this in Glyph:
 
 <img src="https://github.com/PollyVern/AnimatedWidget/blob/main/Resources/png_font_unit.png" width="300">
 
+Set different images in symbols 0 to 9. And export font with parameters: `TrueType`, `.ttf`, `delete overlay`
+
+# Liked the project?
+Tap to star ⭐️ and spread the word!
