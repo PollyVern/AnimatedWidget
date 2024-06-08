@@ -12,7 +12,7 @@ Create an animated widget for a plant app ["Cucullata"](https://apps.apple.com/r
 
 ## Solutions
 
-### Stopwatch
+### Step 1: Stopwatch
 The only method that can update every second in LockScreen is a stopwatch.
 ```swift
 Text(Calendar.current.startOfDay(for: Date()), style: .timer)
@@ -25,3 +25,5 @@ Text(Calendar.current.startOfDay(for: Date()), style: .timer)
             .multilineTextAlignment(.center) // set alignment center or trailing
             .truncationMode(.head) // remove first characters
 ```
+### Step 2: Font and design logic
+Since the timer consists of a font, or rather characters from 0 to 9. So we need to create a font. The logic will be as follows:
