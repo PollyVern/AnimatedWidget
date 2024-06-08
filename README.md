@@ -8,8 +8,6 @@ Create an animated widget for a plant app ["Cucullata"](https://apps.apple.com/r
 2. By timer to achieve the program method of changing images - does not work
 3. There was a possible option to change the static picture through the API every second, but by doing so it loads the back, processor and apple rejects the apps. This solution doesn't work
 
-## MARK
-
 ## Solutions
 
 ### Step 1: Stopwatch
