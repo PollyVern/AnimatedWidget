@@ -3,7 +3,7 @@
 ## Task
 Create an animated widget for a plant app ["Cucullata"](https://apps.apple.com/ru/app/cucullata/id6463136584) on LockedScreen
 
-## First problems
+## Problems
 1. Apple does not provide methods to add animation of a format such as gif to the code
 2. By timer to achieve the program method of changing images - does not work
 3. There was a possible option to change the static picture through the API every second, but by doing so it loads the back, processor and apple rejects the apps. This solution doesn't work
@@ -39,6 +39,15 @@ It should work like this in Glyph:
 <img src="https://github.com/PollyVern/AnimatedWidget/blob/main/Resources/png_font_unit.png" width="300">
 
 Set different images in symbols 0 to 9. And export font with parameters: `TrueType`, `.ttf`, `delete overlay`
+
+### Step 3: Font and code
+Set font and oddset to timer. Offset maybe different for different pictures. Don't forget install font in XCode.
+```swift
+            .font(Font.custom("DynamicFont-Regular", size: 48))
+            .offset(x: -68, y: 10)
+```
+### Step 4: Show widget and new problem
+Yay! We animated the widget! But we faced a problem that it doesn't work when the screen is turned off in Always-On-Display mode
 
 # Liked the project?
 Tap to star ⭐️ and spread the word!
