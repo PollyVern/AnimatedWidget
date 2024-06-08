@@ -27,3 +27,9 @@ Text(Calendar.current.startOfDay(for: Date()), style: .timer)
 ```
 ### Step 2: Font and design logic
 Since the timer consists of a font, or rather characters from 0 to 9. So we need to create a font. The logic will be as follows:
+
+<img src="https://github.com/PollyVern/AnimatedWidget/blob/main/Resources/png_stopwatch.png" width="600">
+
+Create a font in [https://glyphsapp.com](https://glyphsapp.com) or any other editor you need for your tasks.
+За
+
