@@ -49,10 +49,11 @@ Yay! We animated the widget! But we faced a problem that it doesn't work when th
 You can use `UIApplicationProtectedDataWillBecomeUnavailable` and `UIApplicationProtectedDataDidBecomeAvailable` through the main target to check the locked screen. But, it doesn't work always and if the application is in the background. That's why you can get crafty and put a static picture under the font
 
 ### Step 5: Finish! You create animated widget!
-
-AnimatedWidgetExtension Example: [Link](https://github.com/PollyVern/AnimatedWidget/blob/main/ResourcesXCode/AnimatedWidgetExtension.swift)
-
-Font Example: [Link](https://github.com/PollyVern/AnimatedWidget/blob/main/ResourcesXCode/DynamicFont.ttf)
+| Examples |  |
+| --- | --- |
+| AnimatedWidgetExtension | [Link](https://github.com/PollyVern/AnimatedWidget/blob/main/ResourcesXCode/AnimatedWidgetExtension.swift) |
+| Font | [Link](https://github.com/PollyVern/AnimatedWidget/blob/main/ResourcesXCode/DynamicFont.ttf) |
+| Image | [Link](https://github.com/PollyVern/AnimatedWidget/blob/main/ResourcesXCode/png_grassUnit1.png) |
 
 ## Example in AppStore
 |<img src="https://github.com/PollyVern/AnimatedWidget/blob/main/Resources/png_CucullataIcon.png" width="50">| [https://apps.apple.com/ru/app/cucullata/id6463136584](https://apps.apple.com/ru/app/cucullata/id6463136584)|
