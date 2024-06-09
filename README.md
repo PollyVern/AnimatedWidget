@@ -51,7 +51,12 @@ You can use `UIApplicationProtectedDataWillBecomeUnavailable` and `UIApplication
 ### Step 5: Finish! You create animated widget!
 
 AnimatedWidgetExtension Example: [Link](https://github.com/PollyVern/AnimatedWidget/blob/main/ResourcesXCode/AnimatedWidgetExtension.swift)
-Font Example: [Link](https://github.com/PollyVern/AnimatedWidget/blob/main/ResourcesXCode/AnimatedWidgetExtension.swift)
+
+Font Example: [Link](https://github.com/PollyVern/AnimatedWidget/blob/main/ResourcesXCode/DynamicFont.ttf)
+
+## Example in AppStore
+|<img src="https://github.com/PollyVern/AnimatedWidget/blob/main/Resources/png_CucullataIcon.png" width="50">| [https://apps.apple.com/ru/app/cucullata/id6463136584](https://apps.apple.com/ru/app/cucullata/id6463136584)|
+| --- | --- |
 
 
 # Liked the project?
