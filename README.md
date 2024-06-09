@@ -45,7 +45,14 @@ Set font and oddset to timer. Offset maybe different for different pictures. Don
             .offset(x: -68, y: 10)
 ```
 ### Step 4: Show widget and new problem
-Yay! We animated the widget! But we faced a problem that it doesn't work when the screen is turned off in Always-On-Display mode
+Yay! We animated the widget! But we faced a problem that it doesn't work when the screen is turned off in Always-On-Display mode. 
+You can use `UIApplicationProtectedDataWillBecomeUnavailable` and `UIApplicationProtectedDataDidBecomeAvailable` through the main target to check the locked screen. But, it doesn't work always and if the application is in the background. That's why you can get crafty and put a static picture under the font
+
+### Step 5: Finish! You create animated widget!
+
+AnimatedWidgetExtension Example: 
+Font Example: 
+
 
 # Liked the project?
 Tap to star ⭐️ and spread the word!
