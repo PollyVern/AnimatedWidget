@@ -50,8 +50,8 @@ You can use `UIApplicationProtectedDataWillBecomeUnavailable` and `UIApplication
 
 ### Step 5: Finish! You create animated widget!
 
-AnimatedWidgetExtension Example: 
-Font Example: 
+AnimatedWidgetExtension Example: [Link](https://github.com/PollyVern/AnimatedWidget/blob/main/ResourcesXCode/AnimatedWidgetExtension.swift)
+Font Example: [Link](https://github.com/PollyVern/AnimatedWidget/blob/main/ResourcesXCode/AnimatedWidgetExtension.swift)
 
 
 # Liked the project?
