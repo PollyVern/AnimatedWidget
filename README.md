@@ -1,6 +1,10 @@
 # AnimatedWidget on LockScreen
 # From task to AppStore release
-<img src="https://github.com/PollyVern/AnimatedWidget/blob/main/Resources/screen.mov" width="300">
+| Image | Video |
+| --- | --- |
+| <img src="https://github.com/PollyVern/AnimatedWidget/blob/main/Resources/jpg_static.jpg" width="300"> | <img src="https://github.com/PollyVern/AnimatedWidget/blob/main/Resources/screen.mov" width="300"> |
+
+
 
 ## Task
 Create an animated widget for a plant app ["Cucullata"](https://apps.apple.com/ru/app/cucullata/id6463136584) on LockedScreen
